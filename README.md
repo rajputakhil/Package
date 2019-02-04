@@ -44,4 +44,4 @@ $ python3 test.py
 
 7. The program __test.py'__ will get executed.
 
-> **Note:** The program will run for both Python 2 as well as Python 3 version.
+> **Note:** The program will run for both Python 2 as well as Python 3 versions.
