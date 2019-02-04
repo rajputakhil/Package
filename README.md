@@ -7,19 +7,15 @@ Instructions to execute a Python package having two funcitons
 
 3. Create a file named 'fn1.py' with a function in it.
 
-'''
-def functionOne():
-    print("This is Function One")
-    return
-'''
+# def functionOne():
+#   print("This is Function One")
+#   return
 
 4. Create a file named 'fn2.py' with another function in it.
 
-'''
-def functionTwo():
-    print("This is Function Two")
-    return
-'''
+# def functionTwo():
+#   print("This is Function Two")
+#   return
 
 5. Create a file named 'test.py' with a set of instructions to execute fn1 and fn2 functions.
 
