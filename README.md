@@ -1,4 +1,4 @@
-Python Progrm = Modules + Packages
+Python Program = Modules + Packages
 ====
 
   1. This is a step-by-step demonstration to divide Python code base into clean, efficient __modules__ using Python __packages__.
