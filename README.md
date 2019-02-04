@@ -30,3 +30,8 @@ $ cd package
 $ chmod a+x test.py
 ```
 8. Type "python test.py" to execute the Python code
+
+```python
+def sasas()
+  asasas
+```
