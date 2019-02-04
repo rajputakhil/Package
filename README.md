@@ -56,4 +56,8 @@ $ cd package
 $ chmod a+x test.py
 ```
 
-8. Type "python test.py" to execute the Python code
+8. Type the follwoing to execute the code
+
+```bash
+$ python3 test.py
+```
