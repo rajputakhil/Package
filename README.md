@@ -1,20 +1,8 @@
 Python Package
 ====
-# Getting Started
-## Building from Source
-### Installing Spark
 
-> **Note:** The default configuration is for Hadoop 2.7.3. If building against
-> a different version of Hadoop, please pass `-Dhadoop.version=<HADOOP_VERSION>`
-> to the Maven command.
-
-This approach entails three main bottlenecks: 
-
-  1. __scaling the workflow__ comes down to scaling each of the individual
-     tools,
-  2. the __stability of the workflow__ heavily depends on the consistency of
-     intermediate file formats, and
-  3. __writing to and reading from disk__ is a major slow-down.
+  1. You will learn here to divide your code base into clean, efficient modules using Python packages.
+  2. Also, you'll learn to import and use your own or third party packagesin your Python program.
 
 ## Instructions to execute a Python package having two funcitons
 
@@ -61,3 +49,21 @@ $ chmod a+x test.py
 ```bash
 $ python3 test.py
 ```
+
+
+
+# Getting Started
+## Building from Source
+### Installing Spark
+
+> **Note:** The default configuration is for Hadoop 2.7.3. If building against
+> a different version of Hadoop, please pass `-Dhadoop.version=<HADOOP_VERSION>`
+> to the Maven command.
+
+This approach entails three main bottlenecks: 
+
+  1. __scaling the workflow__ comes down to scaling each of the individual
+     tools,
+  2. the __stability of the workflow__ heavily depends on the consistency of
+     intermediate file formats, and
+  3. __writing to and reading from disk__ is a major slow-down.
