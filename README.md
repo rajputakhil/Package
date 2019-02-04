@@ -10,7 +10,7 @@ Python Program = Modules + Packages
 
 2. Create an empty file named ```__int__.py``` (this will tell the interpreter that its a package)
 
-3. Create a file named 'fn1.py' with a function in it.
+3. Create a file named __'fn1.py'__ with a function in it.
 
 ```python
 def functionOne():
@@ -18,7 +18,7 @@ def functionOne():
     return
 ```
 
-4. Create another file named 'fn2.py' with a different function in it.
+4. Create another file named __'fn2.py'__ with a different function in it.
 
 ```python
 def functionTwo():
