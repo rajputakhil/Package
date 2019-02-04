@@ -1,8 +1,8 @@
-Python Package
+Python Progrm = Modules + Packages
 ====
 
-  1. You will learn here to divide your code base into clean, efficient modules using Python packages.
-  2. Also, you'll learn to import and use your own or third party packagesin your Python program.
+  1. This is a step-by-step demonstration to divide Python code base into clean, efficient __modules__ using Python __packages__.
+  2. Additionally, you'll learn to __import__ and use your own packages in your Python program.
 
 ## Instructions to execute a Python package having two funcitons
 
