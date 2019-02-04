@@ -1,3 +1,6 @@
+Python Package
+====
+
 ## Instructions to execute a Python package having two funcitons
 1. Create a folder named 'package'
 2. Create an empty file titled '__int__.py' (this will tell the interpreter that its a Python package)
@@ -6,18 +9,18 @@
 5. Create a file named 'test.py' with a set of instructions to execute fn1 and fn2 functions
 6. Open Terminal and Log into the folder 'Package'
 7. Type in the follwoing command to execute the test.py file:
-chmod a+x test.py
+
+```bash
+$ git clone https://github.com/bigdatagenomics/adam.git
+$ cd package
+$ chmod a+x test.py
+```
+
 8. Type "python test.py" to execute the Python code
 
 
 
-ADAM
-====
 
-[![Build Status](https://img.shields.io/jenkins/s/https/amplab.cs.berkeley.edu/jenkins/view/Big%20Data%20Genomics/job/ADAM.svg)](https://amplab.cs.berkeley.edu/jenkins/view/Big%20Data%20Genomics/job/ADAM/)
-[![Coverage Status](https://coveralls.io/repos/github/bigdatagenomics/adam/badge.svg?branch=master)](https://coveralls.io/github/bigdatagenomics/adam?branch=master)
-[![Maven Central](https://img.shields.io/maven-central/v/org.bdgenomics.adam/adam-parent-spark2_2.11.svg?maxAge=600)](http://search.maven.org/#search%7Cga%7C1%7Corg.bdgenomics.adam)
-[![API Documentation](http://javadoc.io/badge/org.bdgenomics.adam/adam-core-spark2_2.11.svg?color=brightgreen&label=scaladoc)](http://javadoc.io/doc/org.bdgenomics.adam/adam-core-spark2_2.11)
 
 # Introduction
 
