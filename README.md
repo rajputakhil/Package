@@ -6,7 +6,7 @@ Python Program = Modules + Packages
 
 ## Instructions to execute a Python package having two funcitons
 
-1. Create a directory named __'package'
+1. Create a directory named __'package'__.
 
 2. Create an empty file named **'__int__.py'** (this will tell the interpreter that its a package)
 
