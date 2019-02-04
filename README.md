@@ -8,7 +8,7 @@ Python Program = Modules + Packages
 
 1. Create a directory named __'package'__.
 
-2. Create an empty file named __int__.py (this will tell the interpreter that its a package)
+2. Create an empty file named **__int__.py** (this will tell the interpreter that its a package)
 
 3. Create a file named 'fn1.py' with a function in it.
 
