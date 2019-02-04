@@ -42,7 +42,7 @@ $ chmod a+x test.py
 $ python3 test.py
 ```
 
-7. The program __test.py'__ will get executed.
+7. The program __test.py__ will get executed, generating the following output:
 
 ```bash
 This is Function One
