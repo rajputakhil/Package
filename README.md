@@ -12,7 +12,7 @@ Python Program = Modules + Packages
 
 3. Create a file named __'fn1.py'__ with a function in it.
 
-```python
+```py
 def functionOne():
     print("This is Function One")
     return
@@ -20,7 +20,7 @@ def functionOne():
 
 4. Create another file named __'fn2.py'__ with a different function in it.
 
-```python
+```py
 def functionTwo():
     print("This is Function Two")
     return
@@ -28,7 +28,7 @@ def functionTwo():
 
 5. Create a file named __'test.py'__ with a set of python code to execute __fn1__ and __fn2__ functions.
 
-```python
+```py
 import fn1, fn2
 fn1.functionOne()
 fn2.functionTwo()
